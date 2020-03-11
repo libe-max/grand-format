@@ -1,0 +1,12 @@
+.lblb-grand-format,
+.ReactJsonSyntaxHighlighter pre {
+  font-family: 'Input Mono Narrow', monospace;
+}
+
+.ReactJsonSyntaxHighlighter pre { font-size: .8rem; }
+
+.ReactJsonSyntaxHighlighter .key { color: grey; }
+.ReactJsonSyntaxHighlighter .string { color: green; }
+.ReactJsonSyntaxHighlighter .number { color: darkorange; }
+.ReactJsonSyntaxHighlighter .boolean { color: blue; }
+.ReactJsonSyntaxHighlighter .null { color: red; }

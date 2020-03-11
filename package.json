@@ -4,6 +4,7 @@
   "dependencies": {
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
+    "react-json-syntax-highlighter": "^0.1.17",
     "react-scripts": "3.4.0",
     "rimraf": "^3.0.2"
   },

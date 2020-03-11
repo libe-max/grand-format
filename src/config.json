@@ -1,3 +1,11 @@
 {
-  "text": "Hello world!"
+  "string": "Hello world!",
+  "number": 4,
+  "boolean": true,
+  "null": null,
+  "obj": {
+    "prop_1": "Some prop",
+    "prop_2": 4
+  },
+  "arr": [0, 1, 2]
 }
